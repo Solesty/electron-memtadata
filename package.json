@@ -1,0 +1,16 @@
+{
+  "name": "electron-metadata",
+  "version": "1.0.0",
+  "description": "File metadata viewer made in Electron",
+  "main": "main.js",
+  "repository": "",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Adeleke",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
